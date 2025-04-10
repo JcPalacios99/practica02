@@ -1,4 +1,4 @@
-# logica.py
+# logica.py (modificado)
 def mostrar_estado(palabra, letras_adivinadas):
     estado = ""
     for letra in palabra:
