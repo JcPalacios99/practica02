@@ -8,3 +8,7 @@ Este es un juego simple del ahorcado implementado en Python. El objetivo es adiv
 - `main.py`: Punto de entrada del juego.
  Cómo jugar
 Ejecuta `python main.py` y sigue las instrucciones en pantalla.
+Instrucciones
+1. Ingresa una letra a la vez.
+2. Tienes 6 intentos para adivinar la palabra.
+3. Si adivinas todas las letras, ganas. Si se te acaban los intentos, pierdes.
