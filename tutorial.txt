@@ -1,0 +1,10 @@
+Juego del Ahorcado
+
+Este es un juego simple del ahorcado implementado en Python. El objetivo es adivinar una palabra secreta ingresando letras. Tienes 6 intentos antes de perder.
+
+ Archivos
+- `palabras.py`: Contiene la lista de palabras y una función para seleccionar una palabra aleatoria.
+- `logica.py`: Contiene la lógica del juego.
+- `main.py`: Punto de entrada del juego.
+ Cómo jugar
+Ejecuta `python main.py` y sigue las instrucciones en pantalla.
